@@ -1,0 +1,5 @@
+javac EnumIterator.java
+java EnumIterator
+OR
+javac IterEnum.java
+java IterEnum
